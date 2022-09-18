@@ -1,0 +1,4 @@
+void mainFUNC() {
+  parsingData();
+  rumah();
+}
